@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHashDotCom.Sdk", "SimpleHashDotCom.Sdk\SimpleHashDotCom.Sdk.csproj", "{CD471EB3-2613-433D-94BC-CA03097CB54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHashDotCom.SampleApp", "SimpleHashDotCom.SampleApp\SimpleHashDotCom.SampleApp.csproj", "{FF6BEC5C-1889-4376-8DA1-B12F03F92133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD471EB3-2613-433D-94BC-CA03097CB54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD471EB3-2613-433D-94BC-CA03097CB54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD471EB3-2613-433D-94BC-CA03097CB54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD471EB3-2613-433D-94BC-CA03097CB54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6BEC5C-1889-4376-8DA1-B12F03F92133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6BEC5C-1889-4376-8DA1-B12F03F92133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6BEC5C-1889-4376-8DA1-B12F03F92133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6BEC5C-1889-4376-8DA1-B12F03F92133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {971B2B78-A330-468D-BE97-D7090CA64947}
+	EndGlobalSection
+EndGlobal

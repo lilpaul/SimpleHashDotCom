@@ -1,0 +1,7 @@
+{
+	"SimpleHash": {
+		"ApiAuthKey": "API AUTH KEY GOES HERE",
+		"BaseUrl": "https://api.simplehash.com"
+	}
+	// Please create a file called "appsettings.json" with the context above and update the values
+}
