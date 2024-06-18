@@ -7,7 +7,7 @@
 	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	  <RepositoryUrl>https://github.com/lilpaul/SimpleHashDotCom</RepositoryUrl>
 	  <PackageTags>web3; simplehash; api; market;</PackageTags>
-	  <Version>0.0.1-pre-release</Version>
+	  <Version>0.0.2-pre-release</Version>
 	  <Authors>paulcowan</Authors>
 	  <PackageDescription>Sdk for calling simplehash.com API.</PackageDescription>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
